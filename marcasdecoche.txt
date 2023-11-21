@@ -1,2 +1,5 @@
 Opel
 Volkswagen
+Seat
+Skoda
+Renault
